@@ -1,0 +1,41 @@
+state,cases,result
+ANTIOQUIA,2571,positive
+ANTIOQUIA,57815,negative
+BOLIVAR,3,positive
+BOLIVAR,384,negative
+BOYACA,269,positive
+BOYACA,6502,negative
+CALDAS,96,positive
+CALDAS,5074,negative
+CAQUETA,56,positive
+CAQUETA,2413,negative
+CASANARE,33,positive
+CASANARE,1297,negative
+CAUCA,0,positive
+CAUCA,874,negative
+CESAR,26,positive
+CESAR,2765,negative
+CORDOBA,277,positive
+CORDOBA,13861,negative
+CUNDINAMARCA,1498,positive
+CUNDINAMARCA,31027,negative
+MAGDALENA,0,positive
+MAGDALENA,38,negative
+META,134,positive
+META,2831,negative
+NARINO,851,positive
+NARINO,14559,negative
+NORTE DE SANTANDER,4,positive
+NORTE DE SANTANDER,301,negative
+QUINDIO,9,positive
+QUINDIO,1827,negative
+RISARALDA,50,positive
+RISARALDA,2711,negative
+SANTANDER,149,positive
+SANTANDER,6999,negative
+SUCRE,0,positive
+SUCRE,669,negative
+TOLIMA,252,positive
+TOLIMA,7757,negative
+VALLE DEL CAUCA,58,positive
+VALLE DEL CAUCA,5213,negative
